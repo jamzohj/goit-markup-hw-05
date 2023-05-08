@@ -463,6 +463,7 @@ body {
   padding-left: 32px;
   background: #4d5ae5;
   mix-blend-mode: normal;
+  letter-spacing: 0.02em;
 }
 .portfolio-link:hover .overlay,
 .portfolio-link:focus .overlay {

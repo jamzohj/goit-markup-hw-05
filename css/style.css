@@ -78,7 +78,7 @@ body {
   | Header Styles
   |============================
 */
-.header.container {
+.header-container {
   display: flex;
   margin: 0 auto;
   align-items: center;
@@ -114,7 +114,7 @@ body {
   gap: 40px;
   display: flex;
 }
-.nav-link {
+.nav-link.link {
   padding: 24px 0;
   display: block;
   color: var(--secondary-text-color);
@@ -152,7 +152,6 @@ body {
   gap: 40px;
 }
 .address-link {
-  margin-right: 40px;
   color: var(--primary-text-color);
   font-size: 16px;
   line-height: 1.5;
